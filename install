@@ -1,5 +1,0 @@
-#!/bin/bash
-mkdir ~/.config/lepkg
-cp main.py ~/.config/lepkg/
-sudo cp lepkg /bin/
-# Pizdoblyat 
