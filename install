@@ -1,5 +1,5 @@
 #!/bin/bash
 mkdir ~/.config/lepkg
-mv main.py ~/.config/lepkg/
-sudo mv bin.sh /bin/
+cp main.py ~/.config/lepkg/
+sudo cp bin.sh /bin/
 # Pizdoblyat 
